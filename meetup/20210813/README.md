@@ -1,9 +1,11 @@
 # 첫 온라인 미팅 
 2021년 8월 13일 금요일 첫 미팅 시작
 
-## 번역은 어떻게 할 것인가?
+번역(Translation)과 문서화(Documentation)에 대한 내용 소개 및 실습진행
 
-### LibreOffice Wiki 
+## 문서화(Documentation) 및 번역(Translation)은 어떻게 할 것인가?
+
+### LibreOffice Wiki - 문서화 및 번역 부분
  * 홈페이지: https://wiki.documentfoundation.org/ 
  * 리브레오피스 관련 내용은 대부분 위키 문서에 정리 하고 있음.
  * Mediawiki 문법을 사용
