@@ -35,8 +35,12 @@
 
 ## 발표자료
 
-- 2021년 8월 13일 금요일 미팅 시간쯤 추가 및 전달 예정
+- 2021년 8월 13일 금요일 미팅 시간에 추가함
+  * [ODP파일 - 20200813_libreoffice_wiki_translation.odp](data/20200813_libreoffice_wiki_translation.odp)
+  * [PDF파일 - 20200813_libreoffice_wiki_translation.pdf](data/20200813_libreoffice_wiki_translation.pdf)
+  * Slideshare링크: [2021 오픈소스 컨트리뷰션 아카데미] #2 위키(Wiki) 등 번역(Translation)과 문서화(Documentation) (2021.08.13.)
 
+    https://www.slideshare.net/studioego/2021-2-wiki-translation-documentation-20210813
 
 ## 참고하기
 
