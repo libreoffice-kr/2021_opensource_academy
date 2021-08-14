@@ -7,6 +7,20 @@
 
 소프트웨어 번역에는 Weblate를 이용한 번역, po파일을 이용한 번역 2가지 방식이 있음.
 
+### 우선 봐야할 내용
+
+[Languages and localization area - The Document Foundation Wiki](https://wiki.documentfoundation.org/Language)
+
+[Translating LibreOffice - The Document Foundation Wiki](https://wiki.documentfoundation.org/Translating_LibreOffice)
+
+
+
+### LibreOffice 최신 개발 버전 다운로드 받고 KeyID확인하기
+
+[LibreOffice master daily builds](https://dev-builds.libreoffice.org/daily/master/current.html) 
+
+
+
 ### Weblate를 이용한 번역
  * https://translations.documentfoundation.org/  
  * 리브레오피스는 기본적으로 weblate를 이용하여 번역
@@ -48,12 +62,9 @@ po파일은 poedit라는 소프트웨어를 이용하여 번역하는 방법이 
 
 ## 발표자료
 
-- 2021년 8월 13일 금요일 미팅 시간에 추가함
-  * [ODP파일 - 20200813_libreoffice_wiki_translation.odp](data/20200813_libreoffice_wiki_translation.odp)
-  * [PDF파일 - 20200813_libreoffice_wiki_translation.pdf](data/20200813_libreoffice_wiki_translation.pdf)
-  * Slideshare링크: [2021 오픈소스 컨트리뷰션 아카데미] #2 위키(Wiki) 등 번역(Translation)과 문서화(Documentation) (2021.08.13.)
+- 2021년 8월 20일 금요일 미팅 시간에 추가 예정
 
-    https://www.slideshare.net/studioego/2021-2-wiki-translation-documentation-20210813
+
 
 ## 참고하기
 
