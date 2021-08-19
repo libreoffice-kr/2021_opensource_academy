@@ -15,7 +15,7 @@
 
 
 
-### LibreOffice 최신 개발 버전 다운로드 받고 KeyID확인하기
+### LibreOffice 최신 개발 버전 다운로드 받고 기존 버전의 한국어번역과 확인하기
 
 [LibreOffice master daily builds](https://dev-builds.libreoffice.org/daily/master/current.html) 
 
@@ -33,15 +33,19 @@ GNU gettext 라이브러리를 이용한 번역
 
 많은 소프트웨어에서 po파일을 이용하여 번역함.
 
-
+GETTEXT Howto http://wiki.kldp.org/wiki.php/DocbookSgml/Gettext-KLDP
 
 po파일은 poedit라는 소프트웨어를 이용하여 번역하는 방법이 일반적.
 
 [Poedit Translation Editor — Poedit](https://poedit.net/) https://poedit.net/ 
 
-#### cf. Linux의 번역 관련
+#### cf. 여러 분야서 번역 관련
 
-그놈(GNOME)과 KDE등의 여러 리눅스 데스크탑 및 여러 오픈소스는 어떻게 번역 관리를 하는가?
+1) NHN Cloud Meetup - 국제화 (i18n) 자동화 가이드 https://meetup.toast.com/posts/295
+
+2) Python 도구 Sphinx https://www.sphinx-doc.org/en/master/usage/advanced/intl.html
+
+3) 그놈(GNOME)과 KDE등의 여러 리눅스 데스크탑 및 여러 오픈소스는 어떻게 번역 관리를 하는가?
 
 -> po파일을 이용하여 
 
@@ -62,10 +66,10 @@ po파일은 poedit라는 소프트웨어를 이용하여 번역하는 방법이 
 
 ## 발표자료
 
-- 2021년 8월 20일 금요일 미팅 시간에 추가 예정
-
-
-
+- 2021년 8월 20일 금요일 미팅 시간에 추가함
+  * [ODP파일 - 20210820_libreoffice_document_build.odp](data/20210820_libreoffice_document_build.odp)
+  * [PDF파일 - 20210820_libreoffice_document_build.pdf](data/20210820_libreoffice_document_build.pdf)
+  
 ## 참고하기
 
 ### 참고링크
@@ -75,6 +79,8 @@ po파일은 poedit라는 소프트웨어를 이용하여 번역하는 방법이 
 * 리브레오피스 위키(Wiki)  - https://wiki.documentfoundation.org/ 
 * 리브레오피스 소프트웨어 번역사이트 - https://translations.documentfoundation.org/  
 
+* NHN Cloud Meetup - 국제화 (i18n) 자동화 가이드 https://meetup.toast.com/posts/295
+* Python 도구 Sphinx https://www.sphinx-doc.org/en/master/usage/advanced/intl.html
 * GNOME 번역 관련
   * 오픈소스 번역 기여하기 v3 https://www.slideshare.net/changwoo/v3-114830838 
   * 오픈소스 번역 기여하기 v2 https://www.slideshare.net/changwoo/v2-89339074 
@@ -97,7 +103,7 @@ po파일은 poedit라는 소프트웨어를 이용하여 번역하는 방법이 
 
 * LibreOffice Official https://www.youtube.com/channel/UCQAClQkZEm2rkWvU5bvCAXQ 
 * This is LibreOffice https://www.youtube.com/watch?v=3KC0ZdcA6s8 
-* LibreOffice 7.1: New Features  https://www.youtube.com/watch?v=PLutwM8XKvo
+* LibreOffice 7.2: New Features  https://www.youtube.com/watch?v=cWmURg_rM2o
 
 ### 질의응답
  Slack 혹은 Github issue, 메일 등으로 전달 부탁드립니다.
